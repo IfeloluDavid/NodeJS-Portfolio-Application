@@ -1,1 +1,5 @@
 # NodeJS-Portfolio-Application
+
+
+Build Badge
+https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiUnVQUWZQaGwybE5UNXcvWUFER0ZkUExtMzMvaThjMmNVSm13UytkNkJ6V0N0UnRmV2RWWVdZUVZjekdzYVBTTm1aQUdlZ0ZsamtJSmZ2S1graHQxK2tBPSIsIml2UGFyYW1ldGVyU3BlYyI6IlRoc1RJb0ZyN1VVeUxPV28iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
